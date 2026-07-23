@@ -19,4 +19,3 @@ Las demás secciones que mencionaste (temporada completa, clasificación general
 - **Telemetría solo desde 2018**: temporadas anteriores no tienen datos de telemetría/posición disponibles.
 - Si cambias Temporada, Gran Premio o Sesión en la barra lateral, tienes que volver a pulsar **"Cargar sesión"** para que se aplique. Los selectores de piloto y vuelta sí se actualizan al instante.
 - Si eliges una sesión que todavía no se ha corrido (por ejemplo, un GP futuro de la temporada en curso), verás un mensaje de error porque F1 aún no ha publicado esos datos.
-# Analizador-de-datos-f1
